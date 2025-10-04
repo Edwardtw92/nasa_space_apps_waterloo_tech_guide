@@ -1,4 +1,4 @@
-<div align="center">
+<h1 align="center">
   <img
     src="figures/space_apps_waterloo_github_light.png#gh-light-mode-only"
     alt="Light Mode Logo"
@@ -9,9 +9,10 @@
     alt="Dark Mode Logo"
     width="150"
   >
-</div>
 
-<h1 align="center">NASA Space Apps Waterloo 2025 Tech Guide</h1>
+  NASA Space Apps Waterloo 2025 Tech Guide
+</h1>
+
 
 <div align="center">
 
