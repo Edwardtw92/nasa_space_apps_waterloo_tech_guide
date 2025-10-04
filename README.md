@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="figures/space_apps_waterloo_white.png" style="max-width: 175px;">
-    <source media="(prefers-color-scheme: light)" srcset="figures/space_apps_waterloo.png"> style="max-width: 175px;"
+    <source media="(prefers-color-scheme: light)" srcset="figures/space_apps_waterloo.png" style="max-width: 175px;">
     <img alt="Shows a NASA Space Apps Waterloo Logo with blue background and mostly white texts." src="figures/space_apps_waterloo_blue_bg.png" style="max-width: 175px;">
   </picture>
 </div>
