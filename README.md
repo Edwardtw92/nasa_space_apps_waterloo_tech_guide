@@ -1,11 +1,11 @@
 <div align="center">
   <img
-    src="figures/space_apps_waterloo.png#gh-light-mode-only"
+    src="figures/space_apps_waterloo_github_light.png#gh-light-mode-only"
     alt="Light Mode Logo"
     width="150"
   >
   <img
-    src="figures/space_apps_waterloo_blue_bg.png#gh-dark-mode-only"
+    src="figures/space_apps_waterloo_github_dark.png#gh-dark-mode-only"
     alt="Dark Mode Logo"
     width="150"
   >
