@@ -23,7 +23,7 @@
   <!-- The style of social media button was inspired from NvChad's README.md at https://github.com/NvChad/NvChad/blob/v2.5/README.md?plain=1, and created using shield.io -->
 </h1>
 
-## Discord Server `tech-helpdesk` Channel Posting Guideline
+## Discord Server [`tech-helpdesk`](https://discord.com/channels/1380640813322866718/1423116091336425522) Channel Posting Guideline
 
 1) Read the posted [technology trouble shooting guide](https://github.com/Edwardtw92/nasa_space_apps_waterloo_tech_guide/blob/main/space_app_waterloo_tech_guide.pdf).
 2) If possible, try reading official documentation/wiki or online forums.
