@@ -1,6 +1,17 @@
 # NASA Space Apps Waterloo Tech Guide
 
-![space_app_waterloo_logo](figures/space_app_waterloo.png)
+<!-- ![space_apps_waterloo_logo](figures/space_apps_waterloo_white.png) -->
+<!-- <p align="center"> -->
+<!--   <img alt="Fallback Logo Test" src="figures/space_apps_waterloo_blue_bg.png" style="max-width: 200px;"> -->
+<!-- </p> -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="figures/space_apps_waterloo_white.png">
+    <source media="(prefers-color-scheme: light)" srcset="figures/space_apps_waterloo.png">
+    <img alt="Shows a NASA Space Apps Waterloo Logo with blue background and mostly white texts." src="figures/space_apps_waterloo_blue_bg.png">
+  </picture>
+</div>
 
 ## Discord Server `tech-helpdesk` Channel Posting Guideline
 
