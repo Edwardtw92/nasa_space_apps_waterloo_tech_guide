@@ -5,7 +5,7 @@
     style="max-width: 175px; height: auto;"
   >
   <img
-    scr="figures/space_apps_waterloo_white.png#gh-dark-mode-only"
+    src="figures/space_apps_waterloo_white.png#gh-dark-mode-only"
     alt="Dark Mode Logo"
     style="max-width: 175px; height: auto;"
   >
@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <!-- The style of social media button was taken from NvChad's README.md at https://github.com/NvChad/NvChad/blob/v2.5/README.md?plain=1 -->
+  <!-- The style of social media button was inspired from NvChad's README.md at https://github.com/NvChad/NvChad/blob/v2.5/README.md?plain=1, and created using shield.io -->
 
   [![Static Badge](https://img.shields.io/badge/Local%20Event%20Page-blue?style=flat-square)](https://www.spaceappschallenge.org/2025/local-events/waterloo/)
   [![Static Badge](https://img.shields.io/badge/Instagram-pink?style=flat-square)](https://www.instagram.com/spaceapps.kw)
