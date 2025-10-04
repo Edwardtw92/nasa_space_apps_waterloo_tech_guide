@@ -1,19 +1,44 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="figures/space_apps_waterloo_white.png" style="max-width: 175px;">
-    <source media="(prefers-color-scheme: light)" srcset="figures/space_apps_waterloo.png" style="max-width: 175px;">
-    <img alt="Shows a NASA Space Apps Waterloo Logo with blue background and mostly white texts." src="figures/space_apps_waterloo_blue_bg.png" style="max-width: 175px;">
-  </picture>
+  <img
+    src="figures/space_apps_waterloo.png#gh-light-mode-only"
+    alt="Light Mode Logo"
+    style="max-width: 175px; height: auto;"
+  >
+  <img
+    scr="figures/space_apps_waterloo_white.png#gh-dark-mode-only"
+    alt="Dark Mode Logo"
+    style="max-width: 175px; height: auto;"
+  >
 </div>
 
-# NASA Space Apps Waterloo Tech Guide
+<h1 align="center">NASA Space Apps Waterloo 2025 Tech Guide</h1>
+
+<div align="center">
+
+  [![Static Badge](https://img.shields.io/badge/PDF-v1.1.0-e43700?style=for-the-badge)](https://github.com/Edwardtw92/nasa_space_apps_waterloo_tech_guide/blob/main/space_app_waterloo_tech_guide.pdf)
+
+</div>
+
+<div align="center">
+  <!-- The style of social media button was taken from NvChad's README.md at https://github.com/NvChad/NvChad/blob/v2.5/README.md?plain=1 -->
+
+  [![Static Badge](https://img.shields.io/badge/Local%20Event%20Page-blue?style=flat-square)](https://www.spaceappschallenge.org/2025/local-events/waterloo/)
+  [![Static Badge](https://img.shields.io/badge/Instagram-pink?style=flat-square)](https://www.instagram.com/spaceapps.kw)
+  [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Edwardtw92/nasa_space_apps_waterloo_tech_guide?style=flat-square&label=Issues&color=90E59A)](https://github.com/Edwardtw92/nasa_space_apps_waterloo_tech_guide/issues)
+  [![Static Badge](https://img.shields.io/badge/Discord-738adb?style=flat-square)](https://discord.com/invite/AJDQqeczJv)
+  [![Static Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square)](https://www.linkedin.com/company/spaceapps-kw/)
+  [![Static Badge](https://img.shields.io/badge/Linktree-acdc5c?style=flat-square)](https://linktr.ee/spaceappswaterloo)
+
+</div>
 
 ## Discord Server `tech-helpdesk` Channel Posting Guideline
 
-1) If possible, try reading official documentation/wiki or online forums.
-2) Clearly states the encountered problem and what have been attempted.
-3) Provide any auxiliary information such as error message, log, etc.
-4) Mark the post as *resolved*.
+1) Read the posted [technology trouble shooting guide](https://github.com/Edwardtw92/nasa_space_apps_waterloo_tech_guide/blob/main/space_app_waterloo_tech_guide.pdf).
+2) If possible, try reading official documentation/wiki or online forums.
+3) Clearly states the encountered problem and what have been attempted.
+4) **Do not** post any sensitive/personal information.
+5) Provide any auxiliary information such as error message, log, etc.
+6) Mark the post as *resolved*.
 
 ## Feedback
 
