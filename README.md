@@ -11,14 +11,9 @@
   >
 
   NASA Space Apps Waterloo 2025 Tech Guide
-</h1>
-
-
-<div align="center">
 
   [![Static Badge](https://img.shields.io/badge/PDF-v1.1.0-e43700?style=for-the-badge)](https://github.com/Edwardtw92/nasa_space_apps_waterloo_tech_guide/blob/main/space_app_waterloo_tech_guide.pdf)
-
-</div>
+</h1>
 
 <div align="center">
   <!-- The style of social media button was inspired from NvChad's README.md at https://github.com/NvChad/NvChad/blob/v2.5/README.md?plain=1, and created using shield.io -->
