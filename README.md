@@ -2,12 +2,12 @@
   <img
     src="figures/space_apps_waterloo.png#gh-light-mode-only"
     alt="Light Mode Logo"
-    style="max-width: 175px; height: auto;"
+    style="max-width: 100px;"
   >
   <img
     src="figures/space_apps_waterloo_white.png#gh-dark-mode-only"
     alt="Dark Mode Logo"
-    style="max-width: 175px; height: auto;"
+    style="max-width: 100px;"
   >
 </div>
 
