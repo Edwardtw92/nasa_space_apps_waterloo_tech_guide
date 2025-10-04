@@ -5,7 +5,7 @@
     width="150"
   >
   <img
-    src="figures/space_apps_waterloo_white.png#gh-dark-mode-only"
+    src="figures/space_apps_waterloo.png#gh-dark-mode-only"
     alt="Dark Mode Logo"
     width="150"
   >
